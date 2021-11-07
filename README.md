@@ -16,7 +16,7 @@ The green dots on my <a href="https://github.com/shehabomar?tab=repositories">**
 
 <br><br>
 ## Let's Contact :sunglasses:
-![Maintainer](https://img.shields.io/badge/LinkedIn-OmarShehab-blue)
+![Maintainer](https://img.shields.io/badge/LinkedIn-Omar Shehab-blue)
 
 
 <br><br>
