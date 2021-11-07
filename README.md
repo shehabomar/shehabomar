@@ -16,7 +16,7 @@ The green dots on my <a href="https://github.com/shehabomar?tab=repositories">**
 
 <br><br>
 ## Let's Contact :sunglasses:
-<img alt="LinkedIn" src="https://camo.githubusercontent.com/10a1e815175bb7c60aaa85e11058d43b75d9f625a8a8403e929ab5fc7bdad691/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d4b65726f6c6f732532304761642d626c75653f7374796c653d666c61742d737175617265266c6f676f3d6c696e6b6564696e" data-canonical-src="https://img.shields.io/badge/LinkedIn-Kerolos%20Gad-blue?style=flat-square&amp;logo=linkedin" style="max-width: 100%;">
+<img alt="LinkedIn" src="https://camo.githubusercontent.com/10a1e815175bb7c60aaa85e11058d43b75d9f625a8a8403e929ab5fc7bdad691/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d4b65726f6c6f732532304761642d626c75653f7374796c653d666c61742d737175617265266c6f676f3d6c696e6b6564696e" data-canonical-src="https://img.shields.io/badge/LinkedIn-Omar%20Shehab-blue?style=flat-square&amp;logo=linkedin" style="max-width: 100%;">
 
 <br><br>
 <br><br>
