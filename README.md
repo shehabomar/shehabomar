@@ -16,8 +16,7 @@ The green dots on my <a href="https://github.com/shehabomar?tab=repositories">**
 
 <br><br>
 ## Let's Contact :sunglasses:
-<img src="https://camo.githubusercontent.com/ebed932119fa50dd0d6d91b4c73a24744a98dff178d4f7db9acb6678a347dcb9/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6973737565732f6965656568656c77616e73747564656e746272616e63682f494545454853425f6d61696e5f736974653f636f6c6f723d677265656e266c6f676f3d676974687562267374796c653d666c6174" alt="GitHub issues" data-canonical-src="https://img.shields.io/github/issues/ieeehelwanstudentbranch/IEEEHSB_main_site?color=green&amp;logo=github&amp;style=flat" style="max-width: 100%;">
-
+<img alt="LinkedIn" src="https://camo.githubusercontent.com/10a1e815175bb7c60aaa85e11058d43b75d9f625a8a8403e929ab5fc7bdad691/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d4b65726f6c6f732532304761642d626c75653f7374796c653d666c61742d737175617265266c6f676f3d6c696e6b6564696e" data-canonical-src="https://img.shields.io/badge/LinkedIn-Kerolos%20Gad-blue?style=flat-square&amp;logo=linkedin" style="max-width: 100%;">
 
 <br><br>
 <br><br>
