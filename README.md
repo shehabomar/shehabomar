@@ -20,6 +20,6 @@ The green dots on my <a href="https://github.com/shehabomar?tab=repositories">**
 <p align="center">
 <a href="https://www.linkedin.com/in/omar-shehab-5231611a2/"> <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Omar%20Shehab-blue?style=flat-square&logo=linkedin" style="max-width: 100%;"></a>
 <a href="https://www.instagram.com/omar_shehab79/"> <img alt="Instagram" src="https://img.shields.io/badge/Instagram-omar_shehab97-blue?style=flat-square&logo=instagram" style="max-width: 100%;"></a>
- <a href="mailto:omar.2019044@stemelsadat.moe.edu.eg"> <img alt="Email" src="https://img.shields.io/badge/Email-Omar%20Shehab-blue?style=flat-square&logo=email" style="max-width: 100%;"></a>
+ <a href="mailto:omar.2019044@stemelsadat.moe.edu.eg"> <img alt="Email" src="https://img.shields.io/badge/Email-Omar%20Shehab-blue?style=flat-square&logo=gmail" style="max-width: 100%;"></a>
 </p>
  <img src="https://camo.githubusercontent.com/7066b965a9270f1f4547d720783bbe2ddf12b53811c2c22aca9ed2a46719188b/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d7761766526636f6c6f723d6772616469656e74266865696768743d3135302673656374696f6e3d666f6f746572" width="100%"/>
