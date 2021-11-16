@@ -21,5 +21,5 @@ The green dots on my <a href="https://github.com/shehabomar?tab=repositories">**
 
 <br><br>
 <br><br>
-<img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fomarshe75075042">
+<img alt="LinkedIn" src="https://camo.githubusercontent.com/9e5eec0fc031e69b15e65678a64700cf0788d752e269d7510842f63b23eba252/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d7061766c7925323068616c696d2d626c75653f7374796c653d666c61742d737175617265266c6f676f3d6c696e6b6564696e" data-canonical-src="https://img.shields.io/badge/LinkedIn-omar%20shehab-blue?style=flat-square&amp;logo=linkedin" style="max-width: 100%;">
 <img src="https://camo.githubusercontent.com/7066b965a9270f1f4547d720783bbe2ddf12b53811c2c22aca9ed2a46719188b/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d7761766526636f6c6f723d6772616469656e74266865696768743d3135302673656374696f6e3d666f6f746572" width="100%"/>
