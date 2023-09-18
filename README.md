@@ -1,15 +1,14 @@
-### Hi There!  :wave:
-<img src="https://camo.githubusercontent.com/b13023b49ecfa5dbc2a8b528d9ff50195a454b7758c9343912680cb504bcfadb/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d7761766526636f6c6f723d6772616469656e74266865696768743d3238302673656374696f6e3d68656164657226746578743d4869253230746865726525323025463025394625393125384226666f6e7453697a653d3930" width= "100%"/>
-<br>
+## Hi :wave:
 
-### Glad to see you here! 🤩
+<img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" alt="Gif" />
 
-The green dots on my <a href="https://github.com/shehabomar?tab=repositories">**GitHub Profile**</a> represent my journey 🏃‍♂️ - From **being curious** 🤔 thinking about how does <a href="https://www.facebook.com/profile.php?id=100010896122334"><b>Facebook</b></a>
-<br><br>
+## About Me
+I am a <i>Computer Science</i> student at New York University at Abu Dhabi from Egypt.
+- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
-## Skills
-:bowtie: HTML :smile: CSS :laughing: JAVASCRIPT :laughing: REACT :laughing: NODEJS :smiley: MONGODB :laughing: Git :relaxed: Linux & Ubuntu :astonished: C++ :blush: Jquery :heart_eyes: UX&UI :hushed: AI & Machine Learning 😗 Competitive programming 😆 Python
-<br><br>
+- :robot: Currently, I am exploring Machine learining and working with different ML Models.
+
+- :chess_pawn: In my free time, I play chess, or solve problems on Leetcode.
 
 <a href="https://github.com/shehabomar">
 <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=octocat&theme=github-dark&preferLogin=false">    
@@ -19,10 +18,12 @@ The green dots on my <a href="https://github.com/shehabomar?tab=repositories">**
  
 
 <br><br>
-## Let's Contact :sunglasses:
+## Contact Me
 <p align="center">
 <a href="https://www.linkedin.com/in/omar-shehab-5231611a2/"> <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Omar%20Shehab-blue?style=flat-square&logo=linkedin" style="max-width: 100%;"></a>
 <a href="https://www.instagram.com/omar_shehab79/"> <img alt="Instagram" src="https://img.shields.io/badge/Instagram-omar_shehab97-blue?style=flat-square&logo=instagram" style="max-width: 100%;"></a>
  <a href="mailto:oms7891@nyu.edu"> <img alt="Email" src="https://img.shields.io/badge/Email-Omar%20Shehab-blue?style=flat-square&logo=gmail" style="max-width: 100%;"></a>
 </p>
- <img src="https://camo.githubusercontent.com/7066b965a9270f1f4547d720783bbe2ddf12b53811c2c22aca9ed2a46719188b/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d7761766526636f6c6f723d6772616469656e74266865696768743d3135302673656374696f6e3d666f6f746572" width="100%"/>
+
+<img src="https://komarev.com/ghpvc/?username=shehabomar&style=flat-square&color=blue" alt=""/>
+
