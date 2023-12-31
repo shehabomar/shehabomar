@@ -42,6 +42,7 @@ I am a <i>Computer Science</i> student at New York University at Abu Dhabi from 
 <br><br>
 ## Contact Me
 <p align="center">
+<a href="https://shehabomar.github.io/Portfolio-Website/"> <img alt="Website" src="https://img.shields.io/badge/Website-Omar_Shehab-blue?style=flat-square&logo=About.me" style="max-width: 100%;"></a>
 <a href="https://www.linkedin.com/in/omar-shehab-5231611a2/"> <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Omar%20Shehab-blue?style=flat-square&logo=linkedin" style="max-width: 100%;"></a>
 <a href="https://www.instagram.com/omar_shehab79/"> <img alt="Instagram" src="https://img.shields.io/badge/Instagram-omar_shehab97-blue?style=flat-square&logo=instagram" style="max-width: 100%;"></a>
  <a href="mailto:oms7891@nyu.edu"> <img alt="Email" src="https://img.shields.io/badge/Email-Omar%20Shehab-blue?style=flat-square&logo=gmail" style="max-width: 100%;"></a>
