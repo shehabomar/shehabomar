@@ -48,5 +48,4 @@ I am a <i>Computer Science</i> student at New York University at Abu Dhabi from 
  <a href="mailto:oms7891@nyu.edu"> <img alt="Email" src="https://img.shields.io/badge/Email-Omar%20Shehab-blue?style=flat-square&logo=gmail" style="max-width: 100%;"></a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=shehabomar&style=flat-square&color=blue" alt=""/>
 
