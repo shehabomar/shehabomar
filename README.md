@@ -1,10 +1,7 @@
 ## Hi :wave:
 
-<img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" alt="Gif" />
-
-## About Me
 I am a <i>Computer Science</i> student at New York University at Abu Dhabi from Egypt.
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I’m working as a Software Engineer and Research Assistant at **Computer-Human Intelligence Lab**.
 
 - :robot: Currently, I am exploring Machine learining and working with different ML Models.
 
