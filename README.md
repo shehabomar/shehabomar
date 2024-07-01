@@ -1,7 +1,7 @@
 ## Hi :wave:
 
 I am a <i>Computer Science</i> student at New York University at Abu Dhabi from Egypt.
-- :telescope: I’m working as a Software Engineer and Research Assistant at **Computer-Human Intelligence Lab**.
+- :telescope: I’m working as a Machine Learning Engineer and Research Assistant at **Computer-Human Intelligence Lab**.
 
 - :robot: Currently, I am exploring Machine learining and working with different ML Models.
 
